@@ -1,1 +1,2 @@
-# SimpleTicTacToe_python
+# Simple TicTacToe game 
+python 3
